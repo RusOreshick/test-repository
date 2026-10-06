@@ -1,0 +1,1 @@
+const admin_name = "Pitr";
